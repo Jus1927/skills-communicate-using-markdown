@@ -13,3 +13,8 @@ myList = ["Here", "is", "some", "Python", "code"]
 for word in myList:
   print(word)
 ```
+
+- [x] Open the file to edit
+- [x] Create an example task list
+- [ ] Commit the Changes
+- [ ] Submit the Assignment
